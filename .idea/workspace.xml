@@ -2,21 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="57ed7119-d3cd-4f54-b983-37aa0cab7522" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/start/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/start/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/start/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/start/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/start/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/start/public/logo192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/start/public/logo512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/start/public/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/start/public/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/start/src/components/App/App.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/start/src/components/App/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/start/src/components/Button/Button.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/start/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/start/src/utils/utils.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/start/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/src/components/Button/Button.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/src/components/Time/Time.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/start/src/components/App/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/start/src/components/App/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/start/src/components/App/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/start/src/components/App/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/start/src/components/Button/Button.js" beforeDir="false" afterPath="$PROJECT_DIR$/start/src/components/Button/Button.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/start/src/utils/utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/start/src/utils/utils.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +74,7 @@
       <updated>1614706532414</updated>
       <workItem from="1614706533828" duration="535000" />
       <workItem from="1614707112332" duration="1034000" />
-      <workItem from="1614708168050" duration="2077000" />
+      <workItem from="1614708168050" duration="8091000" />
     </task>
     <servers />
   </component>

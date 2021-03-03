@@ -1,0 +1,35 @@
+.button {
+    outline: none;
+    border: none;
+    font-size: 24px;
+    background: #f7fca0;
+    color: #878b32;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+    padding: 15px 30px;
+    cursor: pointer;
+    transition: 0.3s ease all;
+}
+
+.button:hover {
+    border-radius: 10px;
+    background: #f5f8ca;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.15);
+}
+
+.button:not(:last-child) {
+    margin-right: 10px;
+}
+
+@media (max-width: 780px) {
+    .button {
+        font-size: 18px;
+    }
+}
+
+@media (max-width: 320px) {
+    .button {
+        font-size: 14px;
+    }
+}
+
