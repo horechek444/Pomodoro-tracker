@@ -7,6 +7,8 @@
 ## Используемые технологии: 
 React, включая разбивку исходного кода на компоненты, CSS, включая применение flexbox для построения сеток, технологий адаптивной вёрстки для разных разрешений, методология БЭМ.
 
+С проектом можно ознакомиться по ссылке: https://pomodoro-tracker-sepia.vercel.app
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

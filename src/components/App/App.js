@@ -37,7 +37,7 @@ const App = () => {
   const resetTimer = () => {
     clearInterval(intervalRef.current);
     intervalRef.current = null;
-    setTitle('Готов ко второму заходу?');
+    setTitle('Готов к следующему заходу?');
     setTimeLeft(25 * 60);
     setIsRunning(false);
   }
