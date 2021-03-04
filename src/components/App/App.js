@@ -5,7 +5,7 @@ import Button from "../Button/Button";
 import Time from "../Time/Time";
 
 const App = () => {
-  const [title, setTitle] = React.useState('Да начнётся обратный отсчёт!')
+  const [title, setTitle] = React.useState('Да начнётся обратный отсчёт!');
   const [timeLeft, setTimeLeft] = React.useState(25 * 60);
   const [isRunning, setIsRunning] = React.useState(false);
   const intervalRef = React.useRef(null);
@@ -43,7 +43,7 @@ const App = () => {
   }
 
   const minutes = padTimeFunction(Math.floor(timeLeft / 60));
-  const seconds = padTimeFunction(timeLeft - minutes * 60)
+  const seconds = padTimeFunction(timeLeft - minutes * 60);
 
   return (
     <div className="app">
