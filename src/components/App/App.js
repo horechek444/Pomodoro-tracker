@@ -56,8 +56,12 @@ const App = () => {
       </div>
 
       <div className="app__buttons">
-        <Button onClick={isRunning ? stopTimer : startTimer} title={isRunning ? 'Stop' : 'Start'} />
-        <Button onClick={resetTimer} title={'Reset'} />
+        <Button
+          onClick={isRunning ? stopTimer : startTimer}
+          title={isRunning ? 'Stop' : 'Start'} />
+        <Button
+          onClick={resetTimer}
+          title={'Reset'} />
       </div>
     </div>
   );
